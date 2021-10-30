@@ -1,5 +1,7 @@
 # docs
 
 npm install
-npm run bootstrap && npm run build  
+npm run bootstrap --force
+npm run build  
 wrangler preview --watch 
+wrangler publish

@@ -3,12 +3,12 @@ module.exports = {
     pathPrefix: "",
     productLogoPathD: "",
     productIconKey: "",
-    contentRepo: "PegasusDrone/docs",
+    contentRepo: "PegasusDrone",
     contentRepoFolder: "",
     externalLinks: [
       {
         title: "Pegasus Documentation",
-        url: "https://mihr.io/pegasus"
+        url: "https://pegasus.mihr.io/"
       },
       {
         title: "Mihir's Homepage",
