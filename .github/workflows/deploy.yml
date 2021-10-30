@@ -10,6 +10,13 @@ jobs:
     runs-on: ubuntu-latest
     name: Deploy
     steps:
+      - uses: actions/setup-node@v1
+          with:
+            node-version: 14.2.0
+        - run: |
+            npm install
+            npm run ghactionsbootstrap --force
+            npm run build
       - uses: actions/checkout@v2
       - name: Publish
         uses: cloudflare/wrangler-action@1.3.0
