@@ -11,7 +11,6 @@ jobs:
     name: Deploy
     steps:
       - uses: actions/checkout@v2
-      - name: Publish
       - uses: actions/setup-node@v1
         with:
           node-version: 14.2.0
