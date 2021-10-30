@@ -1,23 +1,26 @@
 module.exports = {
-    product: "Pegasus Docs",
+    product: "Pegasus Drone",
     pathPrefix: "",
+    productLogoPathD: "",
     productIconKey: "",
     contentRepo: "PegasusDrone/docs",
     contentRepoFolder: "",
     externalLinks: [
       {
-        title: "Pegasus Docs",
-        url: "https://mihr.io/docs"
+        title: "Pegasus Documentation",
+        url: "https://mihr.io/pegasus"
       },
       {
-        title: "Pegasus Drone documentation",
-        url: "https://mihr.io/docs"
+        title: "Mihir's Homepage",
+        url: "https://mihr.io/"
       },
     ],
     search: {
-      indexName: "",
+      indexName: "Pegasus",
       apiKey: "",
-      algoliaOptions: { "facetFilters": "" }
+      algoliaOptions: {
+        facetFilters: "" 
+    }
     },
     siteMetadata: {
       title: "Pegasus Docs",
