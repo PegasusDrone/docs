@@ -41,5 +41,10 @@ sudo mount -t devpts none /run/media/mihir/writable/dev/pts
  source /opt/ros/galactic/setup.zsh
  
   colcon --log-level=debug build --packages-skip-build-finished --packages-skip ros1_bridge 
+<object data="https://whomihirpatel.s3.us-east-2.amazonaws.com/Certificate_C-CK23BZHMT6.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://whomihirpatel.s3.us-east-2.amazonaws.com/Certificate_C-CK23BZHMT6.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://whomihirpatel.s3.us-east-2.amazonaws.com/Certificate_C-CK23BZHMT6.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
 
   </ContentColumn>
