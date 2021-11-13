@@ -4,14 +4,17 @@ order: 3
 type: overview
 ---
 <ContentColumn>
-Hello Mihir.
+## Hello Mihir,
+
 
 This is a test!
 
 --- 
 # Steps for RPi Cross compilation
+Check the mountpoint using following command
  lsblk 
  
+
  mount /dev/mmcblk0p1 /mnt
  mount /dev/mmcblk0p2 /mnt/boot
  https://hjortsberg.org/notes/Installing-Debian-packages-in-ArchLinux-using-debtap.html
