@@ -19,7 +19,7 @@ module.exports = {
       indexName: "Pegasus",
       apiKey: "Fge52rEqRuFOnYWI6IRvl2GDWJxLBDNvXpXJKyhv",
       algoliaOptions: {
-        facetFilters:  { 'facetFilters': '["project:Pegasus Drone"]'}
+        facetFilters:  { 'facetFilters': ""}
     }
     },
     siteMetadata: {
