@@ -16,7 +16,7 @@ module.exports = {
       },
     ],
     search: {
-      indexName: "Pegasus",
+      indexName: "pegasus_drone",
       apiKey: "f23af949ddb593a485da54c40dcfd03b",
       algoliaOptions: {
         facetFilters:  ""
