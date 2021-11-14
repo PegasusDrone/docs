@@ -17,7 +17,7 @@ module.exports = {
     ],
     search: {
       indexName: "Pegasus",
-      apiKey: "Fge52rEqRuFOnYWI6IRvl2GDWJxLBDNvXpXJKyhv",
+      apiKey: "44e55f7d503903353af032090abbde27",
       algoliaOptions: {
         facetFilters:  ""
     }
