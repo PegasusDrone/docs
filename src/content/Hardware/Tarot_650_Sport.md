@@ -38,20 +38,20 @@ pcx-content-type: best-practices
 | Step Down Circuit       | 5              | ~                |
 | GPS Stand               | 42             | *                |
 | GPS Module              | ''             |                  |
-| Zed 2i                  | 166            | /                |
+| Zed 2i                  | 270            | *                |
 | Lidar Circuit           | 5              | ~                |
 | Lidar Lite V3           | 25             | *                |
 | Lidar Lite V3HP         | 38             | *                |
 | Battery Checker         | 5              | ~                |
 | X8R Receiver            | 15             | *                |
-| Xavier NX module        | 310            | ~                |
+| Xavier NX module        | 210            | *                |
 | A206 Carrier Board      | ''             |                  |
 | Al Fan                  | ''             |                  |
 | Wifi Module             | ''             |                  |
 | SSD                     | ''             |                  |
 | Wifi Antenna            | ''             |                  |
-| Wires etc (Approx)      | 20             | ~                |
-| __AUW (All Up Weight)__     | __2897.8__         |                  |
+| Wires etc (Approx)      | 40             | ~                |
+| __AUW (All Up Weight)__ | __2921.8__     |                  |
 
 </TableWrap>
 

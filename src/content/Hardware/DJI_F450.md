@@ -36,8 +36,8 @@ pcx-content-type: best-practices
 | X8R Receiver                       | 15             | *                |
 | Raspberry Pi 3B+                   | 45             | /                |
 | Step Down circuit for Raspberry Pi | 5              | ~                |
-| Wires etc (Buffer)                 | 20             | ~                |
-| __AUW (All Up Weight)__            |__1092.2__   |                  |
+| Wires etc (Buffer)                 | 40             | ~                |
+| __AUW (All Up Weight)__            |__1112.2__   |                  |
 </TableWrap>
 
 

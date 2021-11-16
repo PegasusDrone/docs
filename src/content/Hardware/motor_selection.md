@@ -11,7 +11,7 @@ Page To be removed
 
 ### Motor Selection
 ### Considerations: 
-- future usecase
+- future usecase (i.e. additional weight 250-300 g)
 - Priority given to efficiency (for longer flight time) as opposed to power (good for racing drones)
 - 50% throttle taken as nominal (used to determine AUW) and 100% as extreme
 
@@ -20,12 +20,11 @@ Page To be removed
 | Motor                         | Throttle | Thrust (g)  | Amps & Power (w) | Efficiency (g/w) | Price ($)        | AUW (g) (thrust*4) |
 |-------------------------------|----------|-------------|------------------|------------------|------------------|--------------------|
 | MN4006 KV380 (15*5'' props)   | 50%      | 805         | 74               | 10.82            | 149.9*2 = 299.8  | 1610               |
-| 100%                          | 2228     | 360         | 6.19             |                  |                  |                    |
-| MN5006 KV450 (15*5'' props)   | 50%      | 1084        | 5.41 | 127       | 8.51             | 84.99*4 = 339.96 | 4336               |
-| 100%                          | 3218     | 26 | 601    | 5.35             |                  |                  |                    |
-| MN5008 KV400 (16*5.4'' props) | 50%      | 1033        | 4.95| 116        | 8.92             | 89.99*4 = 359.96 | 4132               |
-| 100%                          | 3027     | 23.44 | 535 | 5.66             |                  |                  |                    |
-
+|                               | 100%     | 2228        | 360              | 6.19             |                  |                    |
+| MN5006 KV450 (15*5'' props)   | 50%      | 1084        | 5.41 / 127       | 8.51             | 84.99*4 = 339.96 | 4336               |
+|                               | 100%     | 3218        | 26 / 601         | 5.35             |                  |                    |
+| MN5008 KV400 (16*5.4'' props) | 50%      | 1033        | 4.95 / 116       | 8.92             | 89.99*4 = 359.96 | 4132               |
+|                               | 100%     | 3027        | 23.4 / 535       | 5.66             |                  |                    |
 
 
 </TableWrap>

@@ -8,7 +8,7 @@ pcx-content-type: landing-page
 
 <Aside type="warning" header="Pages To-Do">
 
-- CAD Files Page
+- CAD Files and 3D printed parts Page
 - Schematic Files Page
 - Steps to setup Xavier NX
 - Steps for RPi cross Compilation
