@@ -10,3 +10,6 @@ pcx-content-type: configuration
 -
 
 </Aside>
+
+
+> Author: [Mihir Patel](https://github.com/mihyr)

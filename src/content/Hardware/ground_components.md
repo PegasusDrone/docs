@@ -21,3 +21,6 @@ Add datasheets and links
 
 
 </TableWrap>
+
+
+> Author: [Mihir Patel](https://github.com/mihyr)

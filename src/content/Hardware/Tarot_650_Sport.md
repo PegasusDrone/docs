@@ -60,3 +60,5 @@ pcx-content-type: best-practices
 Add datasheets and links
 
 </Aside>
+
+> Author: [Mihir Patel](https://github.com/mihyr)

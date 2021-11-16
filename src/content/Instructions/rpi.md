@@ -44,3 +44,6 @@ sudo mount -t devpts none /run/media/mihir/writable/dev/pts
 
 
   </ContentColumn>
+
+
+> Author: [Mihir Patel](https://github.com/mihyr)

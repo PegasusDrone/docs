@@ -9,7 +9,7 @@ Page To be removed
 
 </Aside>
 
-## Motor Selection
+### Motor Selection
 ### Considerations: 
 - future usecase
 - Priority given to efficiency (for longer flight time) as opposed to power (good for racing drones)
@@ -30,7 +30,7 @@ Page To be removed
 
 </TableWrap>
 
-## ESC Selection
+### ESC Selection
 ### Considerations: 
 - Only difference is efficiency / finetuning options 
 - Air 40A should work equally good
@@ -44,7 +44,7 @@ Page To be removed
 
 </TableWrap>
 
-## Propeller Selection
+### Propeller Selection
 ### Considerations: 
 - 5.4mm pitch would be ideal trade off between speed and precision 
 - Larger Props increased efficiency and thrust
@@ -61,7 +61,7 @@ Page To be removed
 
 </TableWrap>
 
-## Battery Selection
+### Battery Selection
 ### Considerations: 
 - All motors worked best with 6S
 - 4S step up doesnt work well with pm07 power module, better to isolate both systems
@@ -76,3 +76,6 @@ Page To be removed
 
 
 </TableWrap>
+
+
+> Author: [Mihir Patel](https://github.com/mihyr)
