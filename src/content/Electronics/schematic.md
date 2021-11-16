@@ -11,5 +11,6 @@ pcx-content-type: configuration
 
 </Aside>
 
-
+[Download PDF](https://github.com/PegasusDrone/docs/raw/main/src/content/Electronics/pegasus_schematic.pdf)
+![Pegasus_Schematic](./pegasus_schematic.png)
 > Author: [Mihir Patel](https://github.com/mihyr)

@@ -11,7 +11,7 @@ Page To be removed
 
 ### Motor Selection
 ### Considerations: 
-- future usecase (i.e. additional weight 250-300 g)
+- Future usecase (i.e. additional weight 250-300 g)
 - Priority given to efficiency (for longer flight time) as opposed to power (good for racing drones)
 - 50% throttle taken as nominal (used to determine AUW) and 100% as extreme
 
@@ -19,12 +19,14 @@ Page To be removed
 
 | Motor                         | Throttle | Thrust (g)  | Amps & Power (w) | Efficiency (g/w) | Price ($)        | AUW (g) (thrust*4) |
 |-------------------------------|----------|-------------|------------------|------------------|------------------|--------------------|
-| MN4006 KV380 (15*5'' props)   | 50%      | 805         | 74               | 10.82            | 149.9*2 = 299.8  | 1610               |
-|                               | 100%     | 2228        | 360              | 6.19             |                  |                    |
-| MN5006 KV450 (15*5'' props)   | 50%      | 1084        | 5.41 / 127       | 8.51             | 84.99*4 = 339.96 | 4336               |
-|                               | 100%     | 3218        | 26 / 601         | 5.35             |                  |                    |
-| MN5008 KV400 (16*5.4'' props) | 50%      | 1033        | 4.95 / 116       | 8.92             | 89.99*4 = 359.96 | 4132               |
-|                               | 100%     | 3027        | 23.4 / 535       | 5.66             |                  |                    |
+|[MN4006 KV380 (15*5'' props)  ](https://store.tmotor.com/goods.php?id=440)|50%     |805       |74              |10.82           |149.9*2 = 299.8 |1610              |
+|                             |100%    |2228      |360             |6.19            |                |                  |
+|[MN5006 KV450 (14*4.8'' props)](https://store.tmotor.com/goods.php?id=997)|50%     |840       |4.04 &#124; 95       |8.82            |84.99*4 = 339.96|3360              |
+|                             |100%    |2672      |5.01 &#124; 118      |5.75            |                |                  |
+|[MN5006 KV450 (15*5'' props) ](https://store.tmotor.com/goods.php?id=997) |50%     |895       |5.41 &#124; 127      |8.51            |84.99*4 = 339.96|3580              |
+|                             |100%    |3218      |26 &#124; 601        |5.35            |                |                  |
+|[MN5008 KV400 (16*5.4'' props)](https://store.tmotor.com/goods.php?id=1000)|50%     |1033      |4.95&#124; 116       |8.92            |89.99*4 = 359.96|4132              |
+|                             |100%    |3027      |23.44 &#124; 535     |5.66            |                |                  |
 
 
 </TableWrap>
@@ -32,14 +34,14 @@ Page To be removed
 ### ESC Selection
 ### Considerations: 
 - Only difference is efficiency / finetuning options 
-- Air 40A should work equally good
+- Air 40A should work fine for our application
 
 <TableWrap>
 
 | Esc          | Price ($)        |
 |--------------|------------------|
-| AIR 40A 6S   | 39.99*4 = 159.96 |
-| ALPHA 40A 6S | 69.99*4 = 279.96 |
+| [AIR 40A 6S ](https://store.tmotor.com/goods.php?id=368)  | 39.99*4 = 159.96 |
+| [ALPHA 40A 6S ](https://store.tmotor.com/goods.php?id=580)| 69.99*4 = 279.96 |
 
 </TableWrap>
 
@@ -48,15 +50,15 @@ Page To be removed
 - 5.4mm pitch would be ideal trade off between speed and precision 
 - Larger Props increased efficiency and thrust
 - Due to size constraints, 16'' is max we can go
-- Only difference betn Foldable and normal prop I found was better efficiency/Time of flight
+- Only difference betn Foldable and normal prop I found was better efficiency/Time of flight, though foldable tend to come off
 
 <TableWrap>
 
 | Propellers      | Price ($)        |
 |-----------------|------------------|
-| NS16x5.4 Prop   | 62.99*2 = 125.98 |
-| NS15x5 Prop     | 56.99*2 = 113.98 |
-| FA16.2×5.3 Prop | 109.9*2 = 219.8  |
+| [NS16x5.4 Prop ](https://store.tmotor.com/goods.php?id=963)  | 62.99*2 = 125.98 |
+| [NS15x5 Prop ](https://store.tmotor.com/goods.php?id=1072)    | 56.99*2 = 113.98 |
+| [FA16.2×5.3 Prop ](https://store.tmotor.com/goods.php?id=391)| 109.9*2 = 219.8  |
 
 </TableWrap>
 
@@ -64,6 +66,7 @@ Page To be removed
 ### Considerations: 
 - All motors worked best with 6S
 - 4S step up doesnt work well with pm07 power module, better to isolate both systems
+- 45C rating fits our needs, in available range of minimum required 30C and maximum 75C (good for FPVs)
 - 5000*60/1000 = 300 amp/min
 - 300/8 (amps) = 37.5 mins time of flight (approx without safety factor)
 
@@ -71,7 +74,7 @@ Page To be removed
 
 | Battery                         | Price ($) |
 |---------------------------------|-----------|
-| Turnigy Graphene 5000mAh 6S 45C | $99.99    |
+| [Turnigy Graphene 5000mAh 6S 45C](https://hobbyking.com/en_us/graphene-5000mah-6s-45c-w-xt90.html) | $99.99    |
 
 
 </TableWrap>
