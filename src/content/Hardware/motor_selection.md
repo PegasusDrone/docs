@@ -15,7 +15,9 @@ Page To be removed
 - Priority given to efficiency (for longer flight time) as opposed to power (good for racing drones)
 - 50% throttle taken as nominal (used to determine AUW) and 100% as extreme  
 - Note: - In my view MN 5006 KV450 suits best, hence I added two configurations, i.e. with 14 and 15 inch props
+
 <TableWrap>
+
 |Motor                        |Throttle|Thrust (g)|Current (a)|Power (w)|Efficiency (g/w)|Price ($)       |AUW (g) (thrust*4)|
 |-----------------------------|--------|----------|-----------|---------|----------------|----------------|------------------|
 |[MN4006 KV380 (15*5'' props)](https://store.tmotor.com/goods.php?id=440)  |50%     |805       |3.1        |74       |10.82           |149.9*2 = 299.8 |1610              |
@@ -25,10 +27,7 @@ Page To be removed
 |[MN5006 KV450 (15*5'' props)](https://store.tmotor.com/goods.php?id=997)  |50%     |895       |4.2        |99       |9.03            |84.99*4 = 339.96|3580              |
 |                             |100%    |3218      |26.28      |601      |5.35            |                |                  |
 |[MN5008 KV400 (15*5.4'' props)](https://store.tmotor.com/goods.php?id=1000)|50%     |1033      |4.95       |116      |8.92            |89.99*4 = 359.96|4132              |
-|                             |100%    |3027      |23.44      |535      |5.66            |                |                  |
-
-
-
+|                             |100%    |3027      |23.44      |535      |5.66            |                |                  |                                              |
 </TableWrap>
 
 ### ESC Selection
@@ -76,7 +75,6 @@ If drone consumes 4 amps per motor on an average (from first table 50% throttle)
 | Battery                         | Price ($) |
 |---------------------------------|-----------|
 | [Turnigy Graphene 5000mAh 6S 45C](https://hobbyking.com/en_us/graphene-5000mah-6s-45c-w-xt90.html) | $99.99    |
-
 
 </TableWrap>
 
