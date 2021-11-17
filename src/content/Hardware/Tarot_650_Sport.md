@@ -51,6 +51,7 @@ pcx-content-type: best-practices
 | SSD                     | ''             |                  |
 | Wifi Antenna            | ''             |                  |
 | Wires etc (Approx)      | 40             | ~                |
+| 3D printed mounts (TBD) | -              | ~                |
 | __AUW (All Up Weight)__ | __2921.8__     |                  |
 
 </TableWrap>

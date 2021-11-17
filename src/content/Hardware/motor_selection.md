@@ -13,20 +13,21 @@ Page To be removed
 ### Considerations: 
 - Future usecase (i.e. additional weight 250-300 g)
 - Priority given to efficiency (for longer flight time) as opposed to power (good for racing drones)
-- 50% throttle taken as nominal (used to determine AUW) and 100% as extreme
-
+- 50% throttle taken as nominal (used to determine AUW) and 100% as extreme  
+- Note: - In my view MN 5006 KV450 suits best, hence I added two configurations, i.e. with 14 and 15 inch props
 <TableWrap>
 
 | Motor                         | Throttle | Thrust (g)  | Amps & Power (w) | Efficiency (g/w) | Price ($)        | AUW (g) (thrust*4) |
 |-------------------------------|----------|-------------|------------------|------------------|------------------|--------------------|
-|[MN4006 KV380 (15*5'' props)  ](https://store.tmotor.com/goods.php?id=440)|50%     |805       |74              |10.82           |149.9*2 = 299.8 |1610              |
-|                             |100%    |2228      |360             |6.19            |                |                  |
-|[MN5006 KV450 (14*4.8'' props)](https://store.tmotor.com/goods.php?id=997)|50%     |840       |4.04 &#124; 95       |8.82            |84.99*4 = 339.96|3360              |
-|                             |100%    |2672      |5.01 &#124; 118      |5.75            |                |                  |
-|[MN5006 KV450 (15*5'' props) ](https://store.tmotor.com/goods.php?id=997) |50%     |895       |5.41 &#124; 127      |8.51            |84.99*4 = 339.96|3580              |
-|                             |100%    |3218      |26 &#124; 601        |5.35            |                |                  |
-|[MN5008 KV400 (16*5.4'' props)](https://store.tmotor.com/goods.php?id=1000)|50%     |1033      |4.95&#124; 116       |8.92            |89.99*4 = 359.96|4132              |
-|                             |100%    |3027      |23.44 &#124; 535     |5.66            |                |                  |
+|[MN4006 KV380 (15*5'' props)](https://store.tmotor.com/goods.php?id=440)  |50%     |805       |3.1        |74       |10.82           |149.9*2 = 299.8 |1610              |
+|                             |100%    |2228      |15         |360      |6.19            |                |                  |
+|[MN5006 KV450 (14*4.8'' props)](https://store.tmotor.com/goods.php?id=997)|50%     |840       |4.04       |95       |8.82            |84.99*4 = 339.96|3360              |
+|                             |100%    |2672      |20.16      |465      |5.75            |                |                  |
+|[MN5006 KV450 (15*5'' props)](https://store.tmotor.com/goods.php?id=997)  |50%     |895       |4.2        |99       |9.03            |84.99*4 = 339.96|3580              |
+|                             |100%    |3218      |26.28      |601      |5.35            |                |                  |
+|[MN5008 KV400 (15*5.4'' props)](https://store.tmotor.com/goods.php?id=1000)|50%     |1033      |4.95       |116      |8.92            |89.99*4 = 359.96|4132              |
+|                             |100%    |3027      |23.44      |535      |5.66            |                |                  |
+
 
 
 </TableWrap>
@@ -49,26 +50,27 @@ Page To be removed
 ### Considerations: 
 - 5.4mm pitch would be ideal trade off between speed and precision 
 - Larger Props increased efficiency and thrust
-- Due to size constraints, 16'' is max we can go
-- Only difference betn Foldable and normal prop I found was better efficiency/Time of flight, though foldable tend to come off
+- Due to size constraints, 15'' is max we can go
+- Only difference betn Foldable and normal prop I found was better efficiency/Time of flight, but they tend to have more vibrations because of bolts they are attached to.
 
 <TableWrap>
 
 | Propellers      | Price ($)        |
 |-----------------|------------------|
-| [NS16x5.4 Prop ](https://store.tmotor.com/goods.php?id=963)  | 62.99*2 = 125.98 |
-| [NS15x5 Prop ](https://store.tmotor.com/goods.php?id=1072)    | 56.99*2 = 113.98 |
-| [FA16.2×5.3 Prop ](https://store.tmotor.com/goods.php?id=391)| 109.9*2 = 219.8  |
+|[NS14x4.8 Prop](https://store.tmotor.com/goods.php?id=962)|$49.99*2 = 99.98|
+|[NS15x5 Prop](https://store.tmotor.com/goods.php?id=1072)  |56.99*2 = 113.98|
+|[FA15.2×5 Prop](https://store.tmotor.com/goods.php?id=391)|109.9*2 = 219.8 |
 
 </TableWrap>
 
 ### Battery Selection
 ### Considerations: 
-- All motors worked best with 6S
-- 4S step up doesnt work well with pm07 power module, better to isolate both systems
-- 45C rating fits our needs, in available range of minimum required 30C and maximum 75C (good for FPVs)
-- 5000*60/1000 = 300 amp/min
-- 300/8 (amps) = 37.5 mins time of flight (approx without safety factor)
+- All motors worked best with 6S  
+- Rough Calculation:  
+For 5000 mah  
+5000*60/1000 = 300 amp/min  
+If drone consumes 4 amps per motor on an average (from first table 50% throttle); i.e. 16 amps in total (we are not considering xavier's consumption)  
+300/16 (amps) = 18.75 mins time of flight (approx without safety factor)   
 
 <TableWrap>
 
