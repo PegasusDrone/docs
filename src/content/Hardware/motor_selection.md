@@ -16,9 +16,8 @@ Page To be removed
 - 50% throttle taken as nominal (used to determine AUW) and 100% as extreme  
 - Note: - In my view MN 5006 KV450 suits best, hence I added two configurations, i.e. with 14 and 15 inch props
 <TableWrap>
-
-| Motor                         | Throttle | Thrust (g)  | Amps & Power (w) | Efficiency (g/w) | Price ($)        | AUW (g) (thrust*4) |
-|-------------------------------|----------|-------------|------------------|------------------|------------------|--------------------|
+|Motor                        |Throttle|Thrust (g)|Current (a)|Power (w)|Efficiency (g/w)|Price ($)       |AUW (g) (thrust*4)|
+|-----------------------------|--------|----------|-----------|---------|----------------|----------------|------------------|
 |[MN4006 KV380 (15*5'' props)](https://store.tmotor.com/goods.php?id=440)  |50%     |805       |3.1        |74       |10.82           |149.9*2 = 299.8 |1610              |
 |                             |100%    |2228      |15         |360      |6.19            |                |                  |
 |[MN5006 KV450 (14*4.8'' props)](https://store.tmotor.com/goods.php?id=997)|50%     |840       |4.04       |95       |8.82            |84.99*4 = 339.96|3360              |
