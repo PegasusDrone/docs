@@ -64,6 +64,7 @@ Page To be removed
 ### Battery Selection
 ### Considerations: 
 - All motors worked best with 6S  
+- 45C rating fits our needs, in available range of minimum required 30C and maximum 75C (good for FPVs)  
 - Rough Calculation:  
 For 5000 mah  
 5000*60/1000 = 300 amp/min  
