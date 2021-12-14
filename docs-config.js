@@ -1,5 +1,5 @@
 module.exports = {
-    product: "Pegasus Drone",
+    product: "Pegasus Docs",
     pathPrefix: "",
     productLogoPathD: "",
     productIconKey: "",

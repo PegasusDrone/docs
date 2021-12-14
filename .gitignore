@@ -1,0 +1,11 @@
+node_modules
+src/components/
+dist/
+src/constants/
+src/html.js
+src/pages/
+src/utils/
+.docs/
+src/css/
+src/images/
+test/

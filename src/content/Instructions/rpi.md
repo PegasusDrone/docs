@@ -1,15 +1,11 @@
 ---
 title: RPi Cross compilation
 order: 6
-type: overview
+pcx-content-type: best-practices
 ---
+
 <ContentColumn>
-Hello Mihir,
 
-
-This is a test!
-
---- 
 # Steps for RPi Cross compilation
 install qemu qemu-user qemu-user-static
 
@@ -60,13 +56,15 @@ sudo mount -o bind /etc/resolv.conf /mnt/root/etc/resolv.conf
 sudo cp /etc/resolv.conf /mnt/root/etc/resolv.conf
 ```
 -------------------------------------------------------
-## References:
-https://wiki.archlinux.org/title/QEMU
-https://wiki.debian.org/RaspberryPi/qemu-user-static  
-https://forums.raspberrypi.com/viewtopic.php?t=8478
-https://hjortsberg.org/notes/Installing-Debian-packages-in-ArchLinux-using-debtap.html
 
-sudo nmap -A -T4 129.105.69.168  
+## References
+
+<https://wiki.archlinux.org/title/QEMU>
+<https://wiki.debian.org/RaspberryPi/qemu-user-static>  
+<https://forums.raspberrypi.com/viewtopic.php?t=8478>
+<https://hjortsberg.org/notes/Installing-Debian-packages-in-ArchLinux-using-debtap.html>
+
+
 </ContentColumn>
 
 > Author: [Mihir Patel](https://github.com/mihyr)
