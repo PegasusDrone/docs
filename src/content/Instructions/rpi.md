@@ -4,8 +4,6 @@ order: 6
 pcx-content-type: best-practices
 ---
 
-<ContentColumn>
-
 # Steps for RPi Cross compilation
 install qemu qemu-user qemu-user-static
 
@@ -63,8 +61,6 @@ sudo cp /etc/resolv.conf /mnt/root/etc/resolv.conf
 <https://wiki.debian.org/RaspberryPi/qemu-user-static>  
 <https://forums.raspberrypi.com/viewtopic.php?t=8478>
 <https://hjortsberg.org/notes/Installing-Debian-packages-in-ArchLinux-using-debtap.html>
-
-
-</ContentColumn>
+<https://www.raspberrypi.org/documentation/linux/usage/chroot.md>
 
 > Author: [Mihir Patel](https://github.com/mihyr)

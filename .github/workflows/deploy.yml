@@ -8,7 +8,7 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    name: Deploy
+    name: Build Docs
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-node@v1
@@ -19,7 +19,7 @@ jobs:
           npm run ghactionsbootstrap --force
           npm run build
       
-      - name: Publish
+      - name: Publish Docs
         uses: cloudflare/wrangler-action@1.3.0
         with:
           apiToken: ${{ secrets.CF_API_TOKEN }}
