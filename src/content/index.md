@@ -6,6 +6,10 @@ pcx-content-type: landing-page
 
 # Pegasus Docs
 
+![](outdoor.jpg)
+![](pegasus.jpg)
+![](pcb.jpg)
+
 <Aside type="warning" header="Pages To-Do">
 
 - CAD Files and 3D printed parts Page
