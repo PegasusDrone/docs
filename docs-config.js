@@ -1,7 +1,7 @@
 module.exports = {
     product: "Pegasus Docs",
     pathPrefix: "",
-    productLogoPathD: "",
+    productLogoPathD: "images/icon.png",
     productIconKey: "",
     contentRepo: "PegasusDrone",
     contentRepoFolder: "",
@@ -13,6 +13,10 @@ module.exports = {
       {
         title: "Mihir's Homepage",
         url: "https://mihr.io/"
+      },
+      {
+        title: "Mihir's Projects",
+        url: "https://mihr.io/#projects"
       },
     ],
     search: {
