@@ -1,7 +1,7 @@
 module.exports = {
-    product: "Pegasus Docs",
+    product: "Pegasus Drone",
     pathPrefix: "",
-    productLogoPathD: "images/icon.png",
+    productLogoPathD: "",
     productIconKey: "",
     contentRepo: "PegasusDrone",
     contentRepoFolder: "",
