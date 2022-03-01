@@ -5,8 +5,8 @@ pcx-content-type: configuration
 ---
 ## Pegasus DDS Layer
 
-
 ![Pegasus_Schematic](./Pegasus_DDS.png)
+
 <Button type="secondary" href="https://github.com/PegasusDrone/docs/raw/main/src/content/DDS/Pegasus_DDS.pdf">Download DDS.pdf</Button>
 
 - ~/.zshrc configuration
