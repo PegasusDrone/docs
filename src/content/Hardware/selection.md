@@ -3,6 +3,8 @@ title: Sensors, Actuators Selection
 order: 2
 pcx-content-type: best-practices
 ---
+# Component Selection
+
 <Aside type="warning" header="To-Do">
 
 - Sensors (Garmin Lidar V3HP)
@@ -15,7 +17,7 @@ pcx-content-type: best-practices
 - LTE module
 
 </Aside>
-# Component Selection
+
 
 ### Motor Selection
 ### Considerations: 

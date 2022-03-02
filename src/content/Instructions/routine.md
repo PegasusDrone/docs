@@ -1,6 +1,6 @@
 ---
 title: Routine Setup
-order: 2
+order: 4
 pcx-content-type: best-practices
 ---
 

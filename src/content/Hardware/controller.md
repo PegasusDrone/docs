@@ -7,6 +7,12 @@ pcx-content-type: configuration
 
 Radiomaster TS16S Transmitter
 
-# Controller Mode Configuration
+## Controller Mode Configuration
+
+## How to update receiver firmware
+
+## Custom controller scripts
+
+Github:
 
 > Author: [Mihir Patel](https://github.com/mihyr)
