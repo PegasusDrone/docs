@@ -1,5 +1,5 @@
 ---
-title: Pegasus CAD
+title: CAD
 order: 0
 pcx-content-type: best-practices
 ---

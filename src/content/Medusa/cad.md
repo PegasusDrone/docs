@@ -1,12 +1,10 @@
 ---
-title: Controller
+title: Medusa CAD
 order: 3
 pcx-content-type: configuration
 ---
-# TX16s Controller
+# CAD
 
-Radiomaster TS16S Transmitter
-
-# Controller Mode Configuration
+CAD, STL, Calibration
 
 > Author: [Mihir Patel](https://github.com/mihyr)

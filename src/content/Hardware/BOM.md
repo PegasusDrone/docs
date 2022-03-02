@@ -1,5 +1,5 @@
 ---
-title: Pegasus BOM
+title: BOM
 order: 1
 pcx-content-type: best-practices
 ---

@@ -1,6 +1,6 @@
 ---
 title: RPi Cross compilation
-order: 6
+order: 0
 pcx-content-type: best-practices
 ---
 
@@ -62,5 +62,6 @@ sudo cp /etc/resolv.conf /mnt/root/etc/resolv.conf
 <https://forums.raspberrypi.com/viewtopic.php?t=8478>
 <https://hjortsberg.org/notes/Installing-Debian-packages-in-ArchLinux-using-debtap.html>
 <https://www.raspberrypi.org/documentation/linux/usage/chroot.md>
+<https://g.masse.me/blog/2020/01/14/HOW-TO-pre-configure-your-Ubuntu-installation-for-a-Raspberry-Pi/>
 
 > Author: [Mihir Patel](https://github.com/mihyr)
