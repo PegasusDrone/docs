@@ -9,6 +9,7 @@ pcx-content-type: configuration
 
 ![pcb_sch](Bellerophon_sch.jpg)
 ![pcb_brd](Bellerophon_pcb.jpg)
-<Button type="secondary" href="Bellerophon.pdf">Download PDF</Button>
+
+<Button type="secondary" href="Bellerophon.pdf">View PDF</Button>
 
 > Author: [Mihir Patel](https://github.com/mihyr)
