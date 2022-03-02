@@ -3,7 +3,7 @@ title: Drone Schematic
 order: 0
 pcx-content-type: configuration
 ---
-## Schematic
+# Schematic
 
 ![Pegasus_Schematic](Pegasus_sch.jpg)
 

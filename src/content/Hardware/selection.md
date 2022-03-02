@@ -1,13 +1,21 @@
 ---
-title: Motor Selection
-order: 4
+title: Sensors, Actuators Selection
+order: 2
 pcx-content-type: best-practices
 ---
 <Aside type="warning" header="To-Do">
 
-Page To be removed
+- Sensors (Garmin Lidar V3HP)
+- Companion Computer (xavier nx)
+- Stereo Camera (Zed2i)
+- Flight Controller (Pixhawk 4)
+- Battery (LIPO)
+- Actuators
+- ESCs
+- LTE module
 
 </Aside>
+# Component Selection
 
 ### Motor Selection
 ### Considerations: 

@@ -3,7 +3,7 @@ title: Custom PCB
 order: 1
 pcx-content-type: configuration
 ---
-## Bellerophon PCB
+# Bellerophon PCB
 
 ![PCB](3D.png)
 

@@ -1,9 +1,9 @@
 ---
-title: Test Drone BOM
-order: 1
+title: Medusa BOM
+order: 0
 pcx-content-type: best-practices
 ---
-## DJI F450 Drone Components
+## Medusa Drone Components
 
 <Aside  header="Note">
 

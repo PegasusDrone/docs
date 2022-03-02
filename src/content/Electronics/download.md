@@ -3,7 +3,7 @@ title: Altium Files
 order: 2
 pcx-content-type: configuration
 ---
-## Altium Files
+# Altium Files
 
 ![files](File_structure.png)
 

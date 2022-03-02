@@ -1,6 +1,6 @@
 ---
 title: Pegasus BOM
-order: 0
+order: 1
 pcx-content-type: best-practices
 ---
 ## Pegasus Drone Components

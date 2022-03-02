@@ -3,7 +3,7 @@ title: Pegasus DDS
 order: 0
 pcx-content-type: configuration
 ---
-## Pegasus DDS Layer
+# Pegasus DDS Layer
 
 ![Pegasus_Schematic](./Pegasus_DDS.png)
 
