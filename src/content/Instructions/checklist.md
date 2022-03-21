@@ -6,7 +6,7 @@ pcx-content-type: best-practices
 
 # Pegasus Checklist
 
-# Pre-Departure:
+## Pre-Departure
 
 - Batteries:
   - 6S Lipo Charged at ~ 23.0 V
@@ -21,7 +21,7 @@ pcx-content-type: best-practices
   - With Qgroundcontrol installed and pegasus-DDS working
 - Backup Props
 
-# Pre-Flight:
+## Pre-Flight
 
 - Don't Connect Lipo Battery to drone
 - Connect Pixhawk to laptop and check calibration and modes, look for any errors. The top bar should be green and display ready for flight.
@@ -39,7 +39,7 @@ pcx-content-type: best-practices
 - Arm the drone, and press the emergency kill switch, to ensure it works.
 - Reset the emergency switch, disarm the drone.
 
-# Flight:
+## Flight
 
 - Set Position mode and arm the drone.
 - Once in a stable position set offboard mode.
