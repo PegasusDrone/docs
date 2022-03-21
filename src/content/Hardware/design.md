@@ -5,7 +5,7 @@ pcx-content-type: best-practices
 ---
 # Pegasus Design
 
-Virtual CAD model for pegasus was made in Solidworks 2019 Edu.
+- A virtual CAD model for pegasus was made in Solidworks 2019 Edu.
 ![cad](cad.png)
 
 <Button type="secondary" href="https://github.com/PegasusDrone/hardware">View CAD on Github</Button>

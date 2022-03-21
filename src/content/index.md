@@ -18,7 +18,7 @@ A FastDDS based AES encripted pipeline was setup to stream the data to the serve
 The hardware stack is open, configurable and costs about one third compared to enterprise grade drones with similar features like DJI Matrice 300RTK. Any hardware damage can be easily replaced at minimal cost.
 This makes it best suited for research, especially in Aerial robotics, where flight crash while developing autonomy software stacks are frequent.
 
-## Navigation
+## Site Navigation
 
 - [Hardware](https://pegasus.mihr.io/Hardware)
   - [CAD Design](https://pegasus.mihr.io/Hardware/design)
@@ -32,8 +32,8 @@ This makes it best suited for research, especially in Aerial robotics, where fli
 - [DDS](https://pegasus.mihr.io/DDS/dds)
   - [DDS setup](https://pegasus.mihr.io/DDS/dds)
 - [Stereo](https://pegasus.mihr.io/Stereo)
-  - [Visual Inertial Odometry](https://pegasus.mihr.io/VIO_Mapping/vio)
-  - [Visual Slam / Spatial Mapping](https://pegasus.mihr.io/VIO_Mapping/mapping)
+  - [Visual Inertial Odometry](https://pegasus.mihr.io/Stereo/vio)
+  - [Visual Slam / Spatial Mapping](https://pegasus.mihr.io/Stereo/mapping)
 - [Instructions](https://pegasus.mihr.io/Instructions)
   - [Steps for RPi Cross compilation](https://pegasus.mihr.io/Instructions/rpi)
   - [Steps to setup Xavier Nx on the drone](https://pegasus.mihr.io/Instructions/xavier)
