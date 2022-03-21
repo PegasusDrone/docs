@@ -6,4 +6,4 @@ pcx-content-type: navigation
 
 # VIO
 
-<DirectoryListing path="/VIO"/>
+<DirectoryListing path="/Stereo"/>

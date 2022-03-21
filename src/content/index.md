@@ -20,33 +20,38 @@ This makes it best suited for research, especially in Aerial robotics, where fli
 
 ## Navigation
 
-- Hardware
-  - CAD Design
-  - Hardware components BOM and selection
-  - Sensor & actuators selection
-  - TX16s transmitter specifics
-- Electronics
-  - Drone Schematic
-  - Custom PCB schematic
-  - Altium PCB layout
-- DDS
-  - DDS setup
-- Stereo
-  - Visual Inertial Odometry
-  - Visual Slam / Spatial Mapping
-- Instructions
-  - Steps for RPi Cross compilation
-  - Steps to setup Xavier Nx on the drone
-  - Px4 DDS setup
-  - Flight Routine setup (offboard mode)
-  - Pre-Flight Checklist
-- Medusa Drone
-  - Hardware
-  - Schematic / Wiring
-  - CAD
+- [Hardware](https://pegasus.mihr.io/Hardware)
+  - [CAD Design](https://pegasus.mihr.io/Hardware/design)
+  - [Hardware components BOM and selection](https://pegasus.mihr.io/Hardware/BOM)
+  - [Sensor & actuators selection](https://pegasus.mihr.io/Hardware/selection)
+  - [TX16s transmitter specifics](https://pegasus.mihr.io/Hardware/controller)
+- [Electronics](https://pegasus.mihr.io/Electronics)
+  - [Drone Schematic](https://pegasus.mihr.io/Electronics/schematic)
+  - [Custom PCB schematic](https://pegasus.mihr.io/Electronics/pcb)
+  - [Altium PCB layout](https://pegasus.mihr.io/Electronics/download)
+- [DDS](https://pegasus.mihr.io/DDS/dds)
+  - [DDS setup](https://pegasus.mihr.io/DDS/dds)
+- [Stereo](https://pegasus.mihr.io/Stereo)
+  - [Visual Inertial Odometry](https://pegasus.mihr.io/VIO_Mapping/vio)
+  - [Visual Slam / Spatial Mapping](https://pegasus.mihr.io/VIO_Mapping/mapping)
+- [Instructions](https://pegasus.mihr.io/Instructions)
+  - [Steps for RPi Cross compilation](https://pegasus.mihr.io/Instructions/rpi)
+  - [Steps to setup Xavier Nx on the drone](https://pegasus.mihr.io/Instructions/xavier)
+  - [Px4 DDS setup](https://pegasus.mihr.io/Instructions/px4)
+  - [Flight Routine setup (offboard mode)](https://pegasus.mihr.io/Instructions/routine)
+  - [Pre-Flight Checklist](https://pegasus.mihr.io/Instructions/checklist)
+- [Medusa Drone](https://pegasus.mihr.io/Medusa)
+  - [Hardware](https://pegasus.mihr.io/Medusa/BOM)
+  - [Schematic / Wiring](https://pegasus.mihr.io/Medusa/schematic)
+  - [CAD](https://pegasus.mihr.io/Medusa/cad)
 
-![](outdoor.jpg)
-![](pegasus.jpg)
+---
+
+![outdoor](outdoor.jpg)
+
+![pegasus](pegasus.jpg)
+
+---
 
 <Aside type="warning" header="Pages To-Do">
 
