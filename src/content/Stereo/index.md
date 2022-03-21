@@ -4,6 +4,6 @@ order: 4
 pcx-content-type: navigation
 ---
 
-# VIO
+# Stereo Vision
 
 <DirectoryListing path="/Stereo"/>
