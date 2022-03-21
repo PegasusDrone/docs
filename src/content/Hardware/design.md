@@ -8,17 +8,17 @@ pcx-content-type: best-practices
 Virtual CAD model for pegasus was made in Solidworks 2019 Edu.
 ![cad](cad.png)
 
-<Button type="secondary" href="https://github.com/PegasusDrone/docs/raw/main/src/content/DDS/Pegasus_DDS.pdf">Download CAD.zip</Button>
+<Button type="secondary" href="https://github.com/PegasusDrone/hardware">View CAD on Github</Button>
 
 ## Heirarchy
 
 ![herirarchy](Pegasus_Drone_Tree.jpg)
 
-<Button type="secondary" href="https://github.com/PegasusDrone/docs/raw/main/src/content/DDS/Pegasus_DDS.pdf">View Heirarchy.pdf</Button>
+<Button type="secondary" href="heirarchy.pdf">View Heirarchy.pdf</Button>
 
 ## 3D Prints
 
 <ButtonGroup>
-  <Button type="Primary" href="https://github.com/PegasusDrone/docs/raw/main/src/content/DDS/Pegasus_DDS.pdf">View my STLs on Thingiverse</Button>
-  <Button type="Secondary" href="https://github.com/PegasusDrone/docs/raw/main/src/content/DDS/Pegasus_DDS.pdf">Download zip</Button>
+  <Button type="primary" href="https://www.thingiverse.com/mihirpatel/designs">View my STLs on Thingiverse</Button>
+  <Button type="secondary" href="https://github.com/PegasusDrone/hardware/tree/main/stl">View on Github</Button>
 </ButtonGroup>
