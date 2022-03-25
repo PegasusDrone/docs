@@ -49,10 +49,6 @@ This makes it best suited for research, especially in Aerial robotics, where fli
 
 ---
 
-<YouTube id="p5hhzKELw5w"/>
-
----
-
 ![outdoor](outdoor.jpg)
 
 ![pegasus](pegasus.jpg)
