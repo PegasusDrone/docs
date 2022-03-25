@@ -18,6 +18,8 @@ A FastDDS based AES encripted pipeline was setup to stream the data to the serve
 The hardware stack is open, configurable and costs about one third compared to enterprise grade drones with similar features like DJI Matrice 300RTK. Any hardware damage can be easily replaced at minimal cost.
 This makes it best suited for research, especially in Aerial robotics, where flight crash while developing autonomy software stacks are frequent.
 
+<YouTube id="Usyh_PlQ188"/>
+
 ## Site Navigation
 
 - [Hardware](https://pegasus.mihr.io/Hardware)
@@ -44,6 +46,10 @@ This makes it best suited for research, especially in Aerial robotics, where fli
   - [Hardware](https://pegasus.mihr.io/Medusa/BOM)
   - [Schematic / Wiring](https://pegasus.mihr.io/Medusa/schematic)
   - [CAD](https://pegasus.mihr.io/Medusa/cad)
+
+---
+
+<YouTube id="p5hhzKELw5w"/>
 
 ---
 
