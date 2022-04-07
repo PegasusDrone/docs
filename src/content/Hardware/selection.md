@@ -20,11 +20,6 @@ pcx-content-type: best-practices
 
 
 ### Motor Selection
-### Considerations: 
-- Future usecase (i.e. additional weight 250-300 g)
-- Priority given to efficiency (for longer flight time) as opposed to power (good for racing drones)
-- 50% throttle taken as nominal (used to determine AUW) and 100% as extreme  
-- Note: - In my view MN 5006 KV450 suits best, hence I added two configurations, i.e. with 14 and 15 inch props
 
 <TableWrap>
 
@@ -41,9 +36,6 @@ pcx-content-type: best-practices
 </TableWrap>
 
 ### ESC Selection
-### Considerations: 
-- Only difference is efficiency / finetuning options 
-- Air 40A should work fine for our application
 
 <TableWrap>
 
@@ -55,11 +47,6 @@ pcx-content-type: best-practices
 </TableWrap>
 
 ### Propeller Selection
-### Considerations: 
-- 5.4mm pitch would be ideal trade off between speed and precision 
-- Larger Props increased efficiency and thrust
-- Due to size constraints, 15'' is max we can go
-- Only difference betn Foldable and normal prop I found was better efficiency/Time of flight, but they tend to have more vibrations because of bolts they are attached to.
 
 <TableWrap>
 
@@ -72,14 +59,6 @@ pcx-content-type: best-practices
 </TableWrap>
 
 ### Battery Selection
-### Considerations: 
-- All motors worked best with 6S  
-- 45C rating fits our needs, in available range of minimum required 30C and maximum 75C (good for FPVs)  
-- Rough Calculation:  
-For 5000 mah  
-5000*60/1000 = 300 amp/min  
-If drone consumes 4 amps per motor on an average (from first table 50% throttle); i.e. 16 amps in total (we are not considering xavier's consumption)  
-300/16 (amps) = 18.75 mins time of flight (approx without safety factor)   
 
 <TableWrap>
 
